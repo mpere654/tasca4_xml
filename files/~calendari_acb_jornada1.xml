@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+- phpMyAdmin XML Dump Modificat pel Taller XML
+- version 4.2.9.1
+- http://www.phpmyadmin.net
+-
+- Host: localhost
+- Generation Time: 06-11-2014 a les 12:44:32
+- Versió del servidor: 5.5.8
+- PHP Version: 5.3.5
+-->
+
+<taller_xml>
+<calendari_acb>
+<jornada>1</jornada>
+<data>2005-06-14</data>
+<equip_local>UCAM Murcia CB </equip_local>
+<equip_visitant>Valencia Basket Club </equip_visitant>
+<punts_local>85</punts_local>
+<punts_visitant>76</punts_visitant>
+<redactor>Ferran Mas </redactor>
+</calendari_acb>
+<calendari_acb>
+<jornada>1</jornada>
+<data>2005-06-14</data>
+<equip_local>Baloncesto Sevilla </equip_local>
+<equip_visitant>Iberostar Tenerife </equip_visitant>
+<punts_local>87</punts_local>
+<punts_visitant>96</punts_visitant>
+<redactor>Ferran Mas </redactor>
+</calendari_acb>
+<calendari_acb>
+<jornada>1</jornada>
+<data>2005-06-14</data>
+<equip_local>CAI Zaragoza </equip_local>
+<equip_visitant>FIATC Joventut </equip_visitant>
+<punts_local>74</punts_local>
+<punts_visitant>79</punts_visitant>
+<redactor>Ferran Mas </redactor>
+</calendari_acb>
+<calendari_acb>
+<jornada>1</jornada>
+<data>2005-06-14</data>
+<equip_local>Tuenti Móvil Estudiantes </equip_local>
+<equip_visitant>Gipuzkoa Basket </equip_visitant>
+<punts_local>91</punts_local>
+<punts_visitant>74</punts_visitant>
+<redactor>Ferran Mas </redactor>
+</calendari_acb>
+<calendari_acb>
+<jornada>1</jornada>
+<data>2005-06-14</data>
+<equip_local>Real Madrid </equip_local>
+<equip_visitant>Herbalife Gran Canaria </equip_visitant>
+<punts_local>70</punts_local>
+<punts_visitant>57</punts_visitant>
+<redactor>Ferran Mas </redactor>
+</calendari_acb>
+<calendari_acb>
+<jornada>1</jornada>
+<data>2005-06-14</data>
+<equip_local>Rio Natura Monbus Obradoiro </equip_local>
+<equip_visitant>La Bruixa d'Or Manresa </equip_visitant>
+<punts_local>88</punts_local>
+<punts_visitant>64</punts_visitant>
+<redactor>Ferran Mas </redactor>
+</calendari_acb>
+<calendari_acb>
+<jornada>1</jornada>
+<data>2005-06-14</data>
+<equip_local>FC Barcelona </equip_local>
+<equip_visitant>Laboral Kutxa Baskonia </equip_visitant>
+<punts_local>87</punts_local>
+<punts_visitant>65</punts_visitant>
+<redactor>Ferran Mas </redactor>
+</calendari_acb>
+<calendari_acb>
+<jornada>1</jornada>
+<data>2005-06-14</data>
+<equip_local>Unicaja </equip_local>
+<equip_visitant>MoraBanc Andorra </equip_visitant>
+<punts_local>83</punts_local>
+<punts_visitant>69</punts_visitant>
+<redactor>Ferran Mas </redactor>
+</calendari_acb>
+<calendari_acb>
+<jornada>1</jornada>
+<data>2005-06-14</data>
+<equip_local>Bilbao Basket </equip_local>
+<equip_visitant>Montakit Fuenlabrada </equip_visitant>
+<punts_local>73</punts_local>
+<punts_visitant>54</punts_visitant>
+<redactor>Ferran Mas </redactor>
+</calendari_acb>
+</taller_xml>

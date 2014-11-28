@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="temps_html5.xsl"?>
+<current>
+  <city id="3121519" name="Gavà">
+    <coord lon="2" lat="41.3"/>
+    <country>Spain</country>
+    <sun rise="2014-11-12T06:37:05" set="2014-11-12T16:35:18"/>
+  </city>
+  <temperature value="13" min="13" max="13" unit="celsius"/>
+  <humidity value="71" unit="%"/>
+  <pressure value="1011" unit="hPa"/>
+  <wind>
+    <speed value="1" name="Calm"/>
+    <direction value="0" code="N" name="North"/>
+  </wind>
+  <clouds value="20" name="few clouds"/>
+  <visibility/>
+  <precipitation mode="no"/>
+  <weather number="801" value="few clouds" icon="02n"/>
+  <lastupdate value="2014-11-12T20:30:00"/>
+</current>
